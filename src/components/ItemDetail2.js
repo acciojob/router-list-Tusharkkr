@@ -4,8 +4,8 @@ let ItemDetail2 = () => {
 
     return (
         <div>
-            <h1>Item 3</h1>
-            <p>Description for Item 3</p>
+            <h1>Item 2</h1>
+            <p>Description for Item 2</p>
         </div>
     )
 }
