@@ -20,10 +20,10 @@ let ItemDetail = () => {
 
     return (
         <div>
-            {/* {data && <div>
+            {data && <div>
                 <h1>{data.name}</h1>
                 <p>{data.description}</p>
-            </div>} */}
+            </div>}
         </div>
     )
 }
