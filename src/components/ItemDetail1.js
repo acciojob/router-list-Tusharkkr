@@ -1,6 +1,6 @@
 import React from "react";
 
-let One = () => {
+let ItemDetail1 = () => {
 
     return (
         <div>
@@ -10,4 +10,4 @@ let One = () => {
     )
 }
 
-export default One
+export default ItemDetail1
